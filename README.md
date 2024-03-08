@@ -8,26 +8,34 @@
 
 <div align="center">
  
-  🌱 I’m currently learning **Python and Machine Learning**
+  📖 I’m currently learning **Python and Machine Learning**
 
   💬 Ask me about **JavaScript, React, Node.js... or anything [here](https://github.com/morlupib/morlupib/issues)**
 
-  ⚡ Fun fact the internet's first website went live in 1991, the year I was born.
+  ⚡ Fun fact the internet's first website went live in 1991, the year I was born!! ❤️
 
 </div>
  
 <div align="center"> 
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/morlupi-bruno/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
 
 <hr/>
  
-<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+<h2 align="center">⚛️ Languages - Frameworks - Tools ⚛️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,nestjs,tailwind,angular" />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mui,vscode,git,github,mongodb,mysql,python,figma" /><br>
 </div>
 
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>💻 My Contributions 💻</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/morlupib/morlupib/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
